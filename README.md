@@ -1,2 +1,2 @@
 # Javascriptweirdparts
-Understanding the weird parts of Javascript.
+A repo about understanding the weird parts of Javascript.
