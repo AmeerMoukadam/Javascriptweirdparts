@@ -1,2 +1,2 @@
 # Javascriptweirdparts
-A repository created for understanding the weird parts of Javascript using code examples.
+A repository dedicated to understanding the weird parts of Javascript using code examples.
